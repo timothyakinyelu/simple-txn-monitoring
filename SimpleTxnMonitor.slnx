@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SimpleTxnMonitor.Core/SimpleTxnMonitor.Core.csproj" />
+  <Project Path="SimpleTxnMonitor.Infrastructure/SimpleTxnMonitor.Infrastructure.csproj" />
+</Solution>

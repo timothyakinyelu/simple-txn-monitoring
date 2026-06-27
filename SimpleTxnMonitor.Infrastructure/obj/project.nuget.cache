@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxrC0Girx0g=",
+  "success": true,
+  "projectFilePath": "/private/var/www/c#/simple-txn-monitoring/SimpleTxnMonitor.Infrastructure/SimpleTxnMonitor.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/kwaghbeegha/.nuget/packages/fastexpressioncompiler/5.0.2/fastexpressioncompiler.5.0.2.nupkg.sha512",
+    "/Users/kwaghbeegha/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
+    "/Users/kwaghbeegha/.nuget/packages/rulesengine/6.0.0/rulesengine.6.0.0.nupkg.sha512",
+    "/Users/kwaghbeegha/.nuget/packages/system.linq.dynamic.core/1.6.0.1/system.linq.dynamic.core.1.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
