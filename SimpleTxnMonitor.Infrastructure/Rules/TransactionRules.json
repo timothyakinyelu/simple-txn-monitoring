@@ -1,0 +1,19 @@
+[
+  {
+    "WorkflowName": "TransactionMonitoring",
+    "Rules": [
+      {
+        "RuleName": "HighValueTransaction",
+        "ErrorMessage": "Transaction exceeds maximum limit of 10000.",
+        "ErrorType": "Error",
+        "Expression": "input1.Amount > 10000"
+      },
+      {
+        "RuleName": "SuspiciousLocation",
+        "ErrorMessage": "Transactions from Unknown regions are flagged.",
+        "ErrorType": "Error",
+        "Expression": "input1.Country == \"Unknown\""
+      }
+    ]
+  }
+]
